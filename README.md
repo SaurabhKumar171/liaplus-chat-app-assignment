@@ -62,17 +62,17 @@ npm run dev
 This command will automatically start both the frontend and backend services.
 
 ## Project Structure
-- **Frontend**: React-based UI for users to interact with the application.
-- **Backend**: Node.js server that handles API requests and real-time messaging.
+- **React-chat-app**: React-based UI for users to interact with the application.
+- **server**: Node.js server that handles API requests and real-time messaging.
 
 ## Scripts
 - `npm run dev`: Starts both the frontend and backend servers in development mode.
 - `npm install`: Installs all required dependencies.
 
 ## Technologies Used
-- **Frontend**: React, HTML, CSS, JavaScript
+- **Frontend**: React, TailwindCSS, JavaScript
 - **Backend**: Node.js, Express.js
-- **Database**: (Specify if applicable, e.g., MongoDB, PostgreSQL, etc.)
+- **Database**: MongoDB, PostgreSQL
 
 ## Contributing
 1. Fork the repository.
