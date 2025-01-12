@@ -1,0 +1,23 @@
+# Node.js
+/node_modules
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Vite
+/.vite
+dist
+
+# IDE and Editor Files
+*.suo
+*.user
+*.bak
+*.swp
+*.swd
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Other
+.env
